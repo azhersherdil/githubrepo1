@@ -1,0 +1,6 @@
+*.dat
+dir1
+.terraform
+useless
+dir2/*.txt
+dir2/myfile.abc
